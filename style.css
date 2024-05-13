@@ -1,0 +1,21 @@
+@font-face {
+  font-family: BarlowSemiCondensed-Light, sans-serif;
+  src: url(webfont/BarlowSemiCondensed-Light.ttf) format(".ttf");
+}
+@font-face {
+  font-family: BarlowSemiCondensed-Regular, sans-serif;
+  src: url(webfont/BarlowSemiCondensed-Regular.ttf) format(".ttf");
+}
+#main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px 20px;
+}/*# sourceMappingURL=style.css.map */
