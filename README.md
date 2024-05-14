@@ -29,7 +29,7 @@
 
 ## :dart: About ##
 
-This is a testimonials grid section exercise from frontend mentor. I took this execercise to practice grid layout while learning the responsive design layouts in web dev. Had some difficulties setting while managing the widths of each grid item on different screen sizes while main div was centered. To avoide this, instead of centering the div, I added a translateY of dynamic viewport height which will push the div to some extent to make it look centered. If anyone is here and experienced, your feedback would be appreciated.
+This is a testimonials grid section exercise from frontend mentor. I took this execercise to practice grid layout while learning the responsive design layouts in web dev. Had some difficulties setting the contents of grid items while managing the widths of each grid item on different screen sizes while main div was centered. To avoid this, instead of centering the div, I added a translateY of dynamic viewport height which will push the div to some extent to make it look centered. If anyone is here and experienced, your feedback would be appreciated.
 
 ## :sparkles: Features ##
 
