@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="/Screenshot 2024-05-14 at 23.03.21.png" alt="Testimonials Grid Section" width="400px" height="200px" />
+  <img src="/Screenshot 2024-05-14 at 23.03.21.png" alt="Testimonials Grid Section" width="500px" height="250px" />
 
   &#xa0;
 </div>
@@ -15,7 +15,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/r00kieAd/testimonials-grid-section?color=56BEB8">
 </p>
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
